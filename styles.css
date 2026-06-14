@@ -1,16 +1,20 @@
 /*  your css code here. If applicable */
-  .div{
-        width: 50%;
-       } 
+  
 table {
     border-collapse: separate;
     background-color: yellow;
     border: 2px solid black;
-    width: 100%;
+
+	text-align: left
 }
-h1{
-	text-align:center
+.div{
+	/* border: 2px solid red
+	/* width : fill-box */
 }
+/* h1{
+size: 10px
+} */
 th, td {
+	
     border: 2px solid black;
 }
