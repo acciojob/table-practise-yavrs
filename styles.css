@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+  .div{
+        width: 50%;
+       } 
+table {
+    border-collapse: separate;
+    background-color: yellow;
+    border: 2px solid black;
+    width: 100%;
+}
+h1{
+	text-align:center
+}
+th, td {
+    border: 2px solid black;
+}
